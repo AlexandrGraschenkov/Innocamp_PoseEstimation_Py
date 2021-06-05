@@ -6,7 +6,9 @@
 
 Для начала вам потребуется установить [OpenVino](https://docs.openvinotoolkit.org/). С помощью этого фреймворка детектор поз будет отрабатывать более `10 FPS` на современном железе.
 
-Качаем OpenVino [отсюда](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/download.html) после регистрации. Инструкция по установке [тут](https://docs.openvinotoolkit.org/latest/installation_guides.html).
+Есть 2 способа установки:
+1) Через [pip](https://pypi.org/project/openvino/) (не тестировал, говорят что работает)
+2) `Hard mode`: качаем OpenVino [отсюда](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit/download.html) после регистрации. Инструкция по установке [тут](https://docs.openvinotoolkit.org/latest/installation_guides.html)
 
 ### Запуск
 
